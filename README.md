@@ -1,7 +1,8 @@
 # Stock Market Analysis Using Excel VBA Scripting
 
-(DATA to be used: Multiple_year_stock_data.xlsx)
- ------
+### (DATA to be used: Multiple_year_stock_data.xlsx)
+ ------------
+ 
 ### Conditional Formatting
 
 .Stock highlighted in GREEN ----> Positive Yearly Change\
